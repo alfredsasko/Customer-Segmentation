@@ -39,9 +39,9 @@ There are several necessary 3rd party libraries beyond the Anaconda distribution
 There is 1 notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 There are additional files:
- - `bigquery_.py` module supporting 
+ - `Identify_Customer_Segments.html` HTML verion of notebook 
  
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Google for the data.  @alexisbcook for a nice introduction to [Nested and Repeated Data](https://www.kaggle.com/alexisbcook/nested-and-repeated-data). Daqing Chen, Sai Laing Sain & Kun Guo for their technical article [Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining](https://link.springer.com/article/10.1057/dbm.2012.17).
+Must give credit to AZ Direct GmbH's and UDACITY for the data. Data files are not available in repository as there are subjected to [terms]()
 
